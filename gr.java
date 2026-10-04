@@ -1,2 +1,1 @@
-hello
-123123123122
+System.out.println("Privet ot Dev a");
