@@ -1,1 +1,1 @@
-hello
+System.out.println("Privet ot Dev a");
